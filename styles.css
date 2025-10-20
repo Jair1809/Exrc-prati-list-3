@@ -1,0 +1,37 @@
+header {
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+main {
+    background-color: #fff;
+    color: #555;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+footer {
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: #ffffcc;
+}
+
+#importante {
+    border-top: 3px solid #ff0000;
+}
